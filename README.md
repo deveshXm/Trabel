@@ -34,25 +34,26 @@
 
 ### Without Docker :
 
-#### Step-1 : build & run client
+#### Development Build :
+##### Step-1 : build & run client
 
     make build-client
 
-#### Step-2 : build & run server
+##### Step-2 : build & run server
 
     make build-server
 
-### Preview :
+### Preview-Links :
 
 #### Client : 
 
-- ["Docker - Production"](https://localhost:8080)
-- ["Docker - Development"](https://localhost:3000)
-- ["Without Docker"](https://localhost:3000)
+- [Dockerized - Production](https://localhost:8080)
+- [Dockerized - Development](https://localhost:3000)
+- [Without Docker](https://localhost:3000)
 
 #### Server :
 
-- ["Server"](https://localhost:5000)
+- [Server](https://localhost:5000)
 
 
 
