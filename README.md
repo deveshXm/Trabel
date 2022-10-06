@@ -19,28 +19,28 @@
 
 ##### Step-2 : run
 
-```make run-production```
+    make run-production
 
 #### Development Build :
 
 ##### Step-1 : build
 
-```make build-dev```
+    make build-dev
 
 ##### Step-2 : run
 
-```make run-dev```
+    make run-dev
 
 
 ### Without Docker :
 
 #### Step-1 : build & run client
 
-```make build-client```
+    make build-client
 
 #### Step-2 : build & run server
 
-```make build-server```
+    make build-server
 
 ### Preview :
 
