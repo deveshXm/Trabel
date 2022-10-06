@@ -5,7 +5,7 @@
 ## Requirements :
 
 - node: v16.17.0
-- docker
+- docker (optional)
 
 ## Run on local machine :
 
