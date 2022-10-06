@@ -27,7 +27,9 @@ run-production:
 
 # Without Docker
 
-build:
+run-client:
 	cd client && npm install && npm start
+
+run-server:
 	cd server && npm install && npm start
 
