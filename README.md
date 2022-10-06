@@ -15,7 +15,7 @@
 
 ##### Step-1 : build
 
-```make build-production```
+    make build-production
 
 ##### Step-2 : run
 
@@ -46,13 +46,13 @@
 
 #### Client : 
 
--["Docker - Production"](https://localhost:8080)
--["Docker - Development"](https://localhost:3000)
--["Without Docker"](https://localhost:3000)
+- ["Docker - Production"](https://localhost:8080)
+- ["Docker - Development"](https://localhost:3000)
+- ["Without Docker"](https://localhost:3000)
 
 #### Server :
 
--["Server"](https://localhost:5000)
+- ["Server"](https://localhost:5000)
 
 
 
