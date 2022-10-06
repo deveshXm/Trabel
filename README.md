@@ -9,24 +9,50 @@
 
 ## Run on local machine :
 
-### With Docker
+### With Docker :
 
-#### Step-1 build
+#### Production Build :
+
+##### Step-1 : build
 
 ```make build-production```
 
-#### Step-2 run
+##### Step-2 : run
 
 ```make run-production```
 
-### Without Docker
+#### Development Build :
 
-#### Step-1 build & run client
+##### Step-1 : build
+
+```make build-dev```
+
+##### Step-2 : run
+
+```make run-dev```
+
+
+### Without Docker :
+
+#### Step-1 : build & run client
 
 ```make build-client```
 
-#### Step-2 build & run server
+#### Step-2 : build & run server
 
 ```make build-server```
+
+### Preview :
+
+#### Client : 
+
+-["Docker - Production"](https://localhost:8080)
+-["Docker - Development"](https://localhost:3000)
+-["Without Docker"](https://localhost:3000)
+
+#### Server :
+
+-["Server"](https://localhost:5000)
+
 
 
