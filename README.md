@@ -1,6 +1,17 @@
 # Trabel
 
- <p align="center">Went on a journey? Share it with friends on Trabel!</p>
+ <h2 align="center">Went on a journey? Share it with others on Trabel!</h2>
+
+</br>
+
+ <h2 align="center"><strong>Share your journey with others!</strong></h2>
+ <p align="center"><img src="./images/home-page.png" height="200px"/></p>
+
+ <h2 align="center"><strong>Scroll through other's journeys!</strong></h2>
+ <p align="center"><img src="./images/places.png" height="200px"/></p>
+
+ <h2 align="center"><strong>Create new blogs!</strong></h2>
+ <p align="center"><img src="./images/add-place.png" height="200px"/></p>
 
 ## Requirements :
 
@@ -31,10 +42,10 @@
 
     make run-dev
 
-
 ### Without Docker :
 
 #### Development Build :
+
 ##### Step-1 : build & run client
 
     make build-client
@@ -45,7 +56,7 @@
 
 ### Preview-Links :
 
-#### Client : 
+#### Client :
 
 - [Dockerized - Production](https://localhost:8080)
 - [Dockerized - Development](https://localhost:3000)
@@ -55,5 +66,8 @@
 
 - [Server](https://localhost:5000)
 
+<div align="center">LICENSE? </br></br><h3>You dont need one!</h3> </div>
 
-
+</br>
+</br>
+<p align="center">if you find any problems feel free to create an issue.</p>
