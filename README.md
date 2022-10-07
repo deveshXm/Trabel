@@ -1,4 +1,4 @@
-# Trabel
+<h1 align="center" style="color:orange;"> Trabel</h1>
 
  <h2 align="center">Went on a journey? Share it with others on Trabel!</h2>
 
