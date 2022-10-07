@@ -1,16 +1,16 @@
 <h1 align="center" ><a href="http://ec2-13-232-224-104.ap-south-1.compute.amazonaws.com:8080/">Trabel</a></h1>
 
- <h2 align="center">Went on a journey? Share it with others on Trabel!</h2>
+ <h3 align="center">Went on a journey? Share it with others on Trabel!</h2>
 
 </br>
 
- <h2 align="center"><strong>Share your journey with others!</strong></h2>
+ <h3 align="center"><strong>Share your journey with others!</strong></h2>
  <p align="center"><img src="./images/home-page.png" height="200px"/></p>
 
- <h2 align="center"><strong>Scroll through other's journeys!</strong></h2>
+ <h3 align="center"><strong>Scroll through other's journeys!</strong></h2>
  <p align="center"><img src="./images/places.png" height="200px"/></p>
 
- <h2 align="center"><strong>Create new blogs!</strong></h2>
+ <h3 align="center"><strong>Create new blogs!</strong></h2>
  <p align="center"><img src="./images/add-place.png" height="200px"/></p>
 
 ## Requirements :
