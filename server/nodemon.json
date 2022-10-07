@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_URL" : "mongodb+srv://devesh:1Mqp5NZTGHXE8WZe@atlascluster.ymtylvh.mongodb.net/Trabel?retryWrites=true&w=majority" ,
+    "JWT_KEY": "supersecret_dont_share"
+  }
+}
